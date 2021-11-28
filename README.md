@@ -1,6 +1,7 @@
 # COMP 551 (Winter 2021)
 
 **Instructor:** Reihaneh Rabbany
+
 **Group:** Emily Tam, Alvin Chen, Ziqi Li
 
 ## Mini Project 1: Getting started with machine learning
